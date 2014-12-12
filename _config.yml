@@ -12,9 +12,9 @@ addthis:
 
 facebook:
 google_plus:
-twitter:
-github:
+twitter: mikedeboer
+github: mikedeboer
 
 fancybox: true
 google_analytics:
-rss:
+rss: /atom.xml
